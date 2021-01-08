@@ -1,0 +1,186 @@
+body {
+  color: #433520;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f9f6f7;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #AD9D9D;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #AD9D9D;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #d9adad;
+}
+
+hr {
+  border: dotted #aa8976 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #cbaf87;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f0ece3;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.profile-pic {
+  width: 25%;
+}
+
+.design-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #b2704e;
+  background-image: -webkit-linear-gradient(top, #b2704e, #714433);
+  background-image: -moz-linear-gradient(top, #b2704e, #714433);
+  background-image: -ms-linear-gradient(top, #b2704e, #714433);
+  background-image: -o-linear-gradient(top, #b2704e, #714433);
+  background-image: linear-gradient(to bottom, #b2704e, #714433);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #cd9d77;
+  background-image: -webkit-linear-gradient(top, #cd9d77, #b2704e);
+  background-image: -moz-linear-gradient(top, #cd9d77, #b2704e);
+  background-image: -ms-linear-gradient(top, #cd9d77, #b2704e);
+  background-image: -o-linear-gradient(top, #cd9d77, #b2704e);
+  background-image: linear-gradient(to bottom, #cd9d77, #b2704e);
+  text-decoration: none;
+}
+
+.rubik-pic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cs {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #f4eeed;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #aa8976;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 175px;
+  bottom: 40px
+}
+
+.top-cloud {
+  position: absolute;
+  right: 175px;
+  top: 40px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.copyright {
+  color: #f0ece3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+/*************HORIZONTAL BOXES*************
+.top-container {
+  width: 200px;
+  height: 200px;
+  background-color: #f4eeed;
+  border: 10px;
+  border-style: solid;
+  padding: 20px;
+}
+
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 20px;
+  border-style: solid;
+  margin-left: 260px;
+}
+
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  margin-left: 500px;
+  border: 10px;
+  border-style: solid;
+}
+*/
+
+/*
+.desin-desc {
+  clear: left;
+}
+
+
+.rubik-desc {
+  clear: right;
+}
+*/
